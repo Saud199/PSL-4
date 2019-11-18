@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PSL 4</string>
+    <string name="title_activity_previous_champ">previousChamp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="dubai">The Dubai International Stadium, formerly known as the Dubai Sports City Cricket Stadium, is a multi-purpose stadium in Dubai, United Arab Emirates. It is mainly used for cricket and is one of three stadiums in the country, the other two being Sharjah Cricket Association Stadium and Sheikh Zayed Cricket Stadium in Abu Dhabi. It has a capacity of 25,000 spectators, but is expandable to 30,000 spectators. It is a part of the Dubai Sports City in Dubai.</string>
+
+
+    <string name="sharjah">The Sharjah Cricket Stadium is in Sharjah in the United Arab Emirates. It holds the record for the most number of ODIs hosted in a venue with 236 ODIs up to 19 February 2018. It was originally constructed in the early 1980s and has been much improved over the years. In 2010, at the behest of local cricketing patron Abdul Rahman Bukhatir, the Sharjah Cricket Stadium became the home ground for the Afghanistan cricket team for One Day International and First-Class matches. In 2016, Afghanistan changed their home ground to Greater Noida Sports Complex Ground in Noida, India.</string>
+
+
+    <string name="abudhabi">The Sheikh Zayed Stadium is a cricket ground located in Abu Dhabi, United Arab Emirates. The stadium cost $23 million to build and was opened in May 2004, with its inaugural first-class match being an Intercontinental Cup fixture between Scotland and Kenya in November of that year. The stadium has a large stand at either end, with the areas square of the wicket offering grass banks for additional seating. It can hold 20,000 people.</string>
+
+
+    <string name="gaddafi">Gaddafi Stadium is a cricket ground in Lahore, Pakistan. It was designed by famous architect and engineer Nasreddin Murat-Khan, and constructed by Mian Abdul Khaliq and Company in 1959. The stadium was renovated for the 1996 Cricket World Cup when it hosted the final. The headquarters of the Pakistan Cricket Board are situated at Gaddafi Stadium making it the home of Pakistan cricket team. The stadium has a capacity of 27,000 seats, making it one of the biggest in Pakistan.</string>
+
+
+    <string name="national">The National Stadium cricket stadium in Karachi, Pakistan. It is the home ground of Karachi Kings, and is home to many other Karachis domestic cricket teams. The stadium is able to hold 34,228 spectators. After renovations to Gaddafi Stadium reduced its capacity to 27,000, National Stadium became the highest capacity cricket ground in Pakistan.</string>
+
+
+</resources>
